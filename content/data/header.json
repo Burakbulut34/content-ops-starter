@@ -11,7 +11,7 @@
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
+            "label": "Fiyatlandırma",
             "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -28,7 +28,7 @@
             "type": "Link"
         },
         {
-            "label": "Careers",
+            "label": "Kariyer",
             "altText": "Careers page",
             "url": "/careers",
             "icon": "arrowRight",
@@ -37,11 +37,11 @@
             "type": "Link"
         },
         {
-            "label": "Dropdown",
-            "altText": "Dropdown",
+            "label": "Yıkılmak",
+            "altText": "Yıkılmak",
             "links": [
                 {
-                    "label": "Dropdown item",
+                    "label": "Açılan öğe",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -49,7 +49,7 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "Açılan öğe",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -57,7 +57,7 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "Açılan öğe",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -71,7 +71,7 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Sign up",
+            "label": "Kayıt Ol",
             "altText": "Sign up",
             "url": "/",
             "icon": "arrowRight",
@@ -80,7 +80,7 @@
             "type": "Button"
         },
         {
-            "label": "Log in",
+            "label": "Giriş Yap",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
