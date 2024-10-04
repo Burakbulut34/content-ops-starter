@@ -1,16 +1,16 @@
 {
     "logo": {
         "url": "/images/logo-white.svg",
-        "altText": "Logo light",
+        "altText": "Logo ışığı",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "Markanızın açıklaması",
     "primaryLinks": {
-        "title": "Product",
+        "title": "Ürünler",
         "links": [
             {
-                "label": "Features",
-                "altText": "Features page",
+                "label": "Özellikler",
+                "altText": "Özellikler sayfası",
                 "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -18,7 +18,7 @@
                 "type": "Link"
             },
             {
-                "label": "Pricing",
+                "label": "Fiyatlandırma",
                 "url": "/pricing",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -26,7 +26,7 @@
                 "type": "Link"
             },
             {
-                "label": "Documentation",
+                "label": "Dokümantasyon",
                 "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -37,11 +37,11 @@
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
-        "title": "Company",
+        "title": "Şirket",
         "links": [
             {
-                "label": "Careers",
-                "altText": "careers page",
+                "label": "Kariyer",
+                "altText": "kariyer sayfası",
                 "url": "/careers",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -87,7 +87,7 @@
     ],
     "legalLinks": [
         {
-            "label": "Terms",
+            "label": "Şartlar",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -95,7 +95,7 @@
             "type": "Link"
         },
         {
-            "label": "Privacy",
+            "label": "Mahremiyet",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
